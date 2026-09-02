@@ -28,6 +28,6 @@ main (){
     printf("-----------------------------\n");
     printf("Saldo atual na conta: R$ %.2f\n", saldo_atual);
 	
-	
+	return 0;
 	
 }
